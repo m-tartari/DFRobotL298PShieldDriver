@@ -4,10 +4,10 @@
 #include <Arduino.h>
 
 // Pins are fixed since it is a shield
-#define LEFT_PWM  7
-#define LEFT_EN   6
-#define RIGHT_PWM 4
-#define RIGHT_EN  5
+#define LEFT_PWM  4
+#define LEFT_EN   5
+#define RIGHT_PWM 7
+#define RIGHT_EN  6
 
 class DFRobotL298PShield
 {
